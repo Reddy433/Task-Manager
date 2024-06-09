@@ -10,13 +10,13 @@ Welcome to our Task Manager App – your all-in-one solution for efficient task 
 
 # Task Management :
 
-Create, edit, and delete tasks with ease.
+Create, edit, and delete tasks with Ease.
 
 Specify due dates, priorities, and track task status effortlessly.
 
 Categorize and filter tasks for a customized and organized view.
 
-Get notify through the app on bell icon
+Get notify through the app on bell icon.
 
 # To-Do :
 
